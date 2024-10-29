@@ -4,18 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4abbfaba-afeb-462c-9dcd-ede57c1d5e20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spider/javafxlab1/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spider/javafxlab1/hello-view.fxml" afterDir="false" />
+    <list default="true" id="4abbfaba-afeb-462c-9dcd-ede57c1d5e20" name="Changes" comment="second commit, task1 upd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskTwoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskTwoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TaskTwo.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GreyFW&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GreyFW/Java-FX-lab&quot;,
+    &quot;accountId&quot;: &quot;b7b38b48-89a5-44df-900a-0cb147b0bc7f&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -23,9 +47,12 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2o16H9ExnsclaQhKsvvvYxfU36B" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,10 +61,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BaseApp.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "Application.TaskOneApp.executor": "Run",
+    "Application.TaskTwo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/University/Stream-API-Java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.JavaFX"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\University\JavaFX-Lab1\src\main\resources" />
+      <recent name="C:\Users\user\IdeaProjects\University\JavaFX-Lab1\src\main\resources\spider\javafxlab1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +92,29 @@
       <option name="presentableId" value="Default" />
       <updated>1730024643899</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit, task1 upd">
+      <option name="closed" value="true" />
+      <created>1730232270962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730232270962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit, task1 upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit, task1 upd" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.reflect.InvocationTargetException" package="java.lang.reflect" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
