@@ -16,5 +16,7 @@ module spider.javafxlab1 {
 
     exports spider.javafxlab1.taskfour;
     opens spider.javafxlab1.taskfour to javafx.fxml;
+    exports spider.javafxlab1.taskfive;
+    opens spider.javafxlab1.taskfive to javafx.fxml;
 
 }

@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4abbfaba-afeb-462c-9dcd-ede57c1d5e20" name="Changes" comment="second commit, task1 upd">
+    <list default="true" id="4abbfaba-afeb-462c-9dcd-ede57c1d5e20" name="Changes" comment="task four solved (almost)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/taskfive/TaskFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/taskfive/TaskFiveController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spider/javafxlab1/TaskFive.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskTwoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/TaskTwoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/TaskTwo.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="JavaFXApplication" />
         <option value="FxmlFile" />
         <option value="Class" />
       </list>
@@ -63,7 +64,11 @@
   "keyToString": {
     "Application.BaseApp.executor": "Run",
     "Application.HelloApplication.executor": "Run",
+    "Application.TaskFive.executor": "Run",
+    "Application.TaskFour.executor": "Run",
+    "Application.TaskOne.executor": "Run",
     "Application.TaskOneApp.executor": "Run",
+    "Application.TaskThree.executor": "Run",
     "Application.TaskTwo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -71,10 +76,10 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/University/Stream-API-Java",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.JavaFX"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,6 +87,54 @@
       <recent name="C:\Users\user\IdeaProjects\University\JavaFX-Lab1\src\main\resources" />
       <recent name="C:\Users\user\IdeaProjects\University\JavaFX-Lab1\src\main\resources\spider\javafxlab1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TaskFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spider.javafxlab1.taskfour.TaskFour" />
+      <module name="JavaFX-Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spider.javafxlab1.taskfour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spider.javafxlab1.taskthree.TaskThree" />
+      <module name="JavaFX-Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spider.javafxlab1.taskthree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spider.javafxlab1.tasktwo.TaskTwo" />
+      <module name="JavaFX-Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spider.javafxlab1.tasktwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskFour" />
+        <item itemvalue="Application.TaskTwo" />
+        <item itemvalue="Application.TaskThree" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -100,12 +153,47 @@
       <option name="project" value="LOCAL" />
       <updated>1730232270962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task two solved">
+      <option name="closed" value="true" />
+      <created>1730235146882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730235146882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task two solved">
+      <option name="closed" value="true" />
+      <created>1730235155893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730235155894</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task three solved">
+      <option name="closed" value="true" />
+      <created>1730726356999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730726356999</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task four solved (almost)">
+      <option name="closed" value="true" />
+      <created>1730732613386</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730732613386</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit, task1 upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit, task1 upd" />
+    <MESSAGE value="task two solved" />
+    <MESSAGE value="task three solved" />
+    <MESSAGE value="task four solved (almost)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task four solved (almost)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
