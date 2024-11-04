@@ -46,7 +46,7 @@ public class TaskOne extends Application {
         Scene scene = new Scene(pane, 500, 300);
         primaryStage.setScene(scene);
 
-        primaryStage.setTitle("Первое задание");
+        primaryStage.setTitle("Задание 1");
 
         primaryStage.show();
 

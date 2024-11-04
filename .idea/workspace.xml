@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4abbfaba-afeb-462c-9dcd-ede57c1d5e20" name="Changes" comment="task four solved (almost)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/taskfive/TaskFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spider/javafxlab1/taskfive/TaskFiveController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spider/javafxlab1/TaskFive.fxml" afterDir="false" />
+    <list default="true" id="4abbfaba-afeb-462c-9dcd-ede57c1d5e20" name="Changes" comment="task five solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spider/javafxlab1/TaskTwo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spider/javafxlab1/TaskTwo.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730732613386</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task five solved">
+      <option name="closed" value="true" />
+      <created>1730737564148</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730737564148</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,7 +198,8 @@
     <MESSAGE value="task two solved" />
     <MESSAGE value="task three solved" />
     <MESSAGE value="task four solved (almost)" />
-    <option name="LAST_COMMIT_MESSAGE" value="task four solved (almost)" />
+    <MESSAGE value="task five solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="task five solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

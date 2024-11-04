@@ -17,8 +17,8 @@
             <Label fx:id="label" text="TEXT" visible="false" />
          </children>
       </VBox>
-      <CheckBox fx:id="checkBoxLabel" layoutX="207.0" layoutY="201.0" mnemonicParsing="false" onAction="#checkBoxLabel" text="Visability" />
-      <CheckBox fx:id="checkBoxTextField" layoutX="207.0" layoutY="58.0" mnemonicParsing="false" onAction="#checkBoxTextField" text="Visability" />
-      <CheckBox fx:id="checkBoxButton" layoutX="207.0" layoutY="135.0" mnemonicParsing="false" onAction="#checkBoxButton" text="Visability" />
+      <CheckBox fx:id="checkBoxLabel" layoutX="207.0" layoutY="201.0" mnemonicParsing="false" onAction="#checkBoxLabel" text="Видимость" />
+      <CheckBox fx:id="checkBoxTextField" layoutX="207.0" layoutY="58.0" mnemonicParsing="false" onAction="#checkBoxTextField" text="Видимость" />
+      <CheckBox fx:id="checkBoxButton" layoutX="207.0" layoutY="135.0" mnemonicParsing="false" onAction="#checkBoxButton" text="Видимость" />
    </children>
 </AnchorPane>
