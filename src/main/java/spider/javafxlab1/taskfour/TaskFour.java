@@ -1,4 +1,4 @@
-package spider.javafxlab1;
+package spider.javafxlab1.taskfour;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -6,14 +6,16 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-public class TaskTwo extends Application {
+// КАЛЬКУЛЯТОР
+
+public class TaskFour extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("/spider/javafxlab1/TaskTwo.fxml"));
-        primaryStage.setTitle("Задание 2");
+        Parent root = FXMLLoader.load(getClass().getResource("/spider/javafxlab1/TaskFour.fxml"));
+        primaryStage.setTitle("Задание 4");
         primaryStage.setScene(new Scene(root));
+        primaryStage.setResizable(false);
         primaryStage.show();
     }
-
 }

@@ -1,4 +1,4 @@
-package spider.javafxlab1;
+package spider.javafxlab1.tasktwo;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
