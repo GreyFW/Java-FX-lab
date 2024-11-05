@@ -63,9 +63,6 @@ public class TaskFourController {
     }
 
     private void calculateResult() {
-        String expression = displayLabel.getText();
-        ScriptEngineManager manager = new ScriptEngineManager();
-        ScriptEngine engine = manager.getEngineByName("JavaScript");
         double secondValue = Double.parseDouble(displayLabel.getText());
         double result = 0.0;
 
